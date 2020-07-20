@@ -20,3 +20,6 @@ snake_main用于编写主要函数 snake_support用于编写辅助函数
 
 玩家登陆
 
+## 呈现效果
+
+![](C:\Users\Chris Wang\Desktop\Snipaste_2020-07-19_20-58-54.png)
