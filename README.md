@@ -22,4 +22,6 @@ snake_main用于编写主要函数 snake_support用于编写辅助函数
 
 ## 呈现效果
 
-![](C:\Users\Chris Wang\Desktop\Snipaste_2020-07-19_20-58-54.png)
+![snake screenshot](https://raw.githubusercontent.com/chriswang2001/snake/master/screenshot.png)
+
+
