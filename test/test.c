@@ -1,6 +1,7 @@
 #include <conio.h>
 #include <stdio.h>
 
+//测试键盘按键对应的键值
 int main()
 {
     while (1)
